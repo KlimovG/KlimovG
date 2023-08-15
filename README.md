@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="{https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={klimovg}}" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klimovg" />
 <img src="" />
 ![image]({https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={klimovg}})
 <!--
