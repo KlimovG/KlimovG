@@ -1,9 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-I am Georgii Klimov, a Full Stack Developer with a strong focus on frontend technologies, particularly Angular and RxJS. With over 4 years of experience in the tech industry, I've honed my skills in creating efficient and scalable web applications, ensuring code quality through refactoring, and collaborating with cross-functional teams. My background in both European and Russian tech environments has equipped me with a unique perspective and the ability to tackle diverse challenges in web development.
+## About me 🧑‍💻
+I am Georgii Klimov(aka TraneDev) , a Full Stack Developer with a strong focus on frontend technologies, particularly Angular and RxJS. With over 4 years of experience in the tech industry, I've honed my skills in creating efficient and scalable web applications, ensuring code quality through refactoring, and collaborating with cross-functional teams. My background in both European and Russian tech environments has equipped me with a unique perspective and the ability to tackle diverse challenges in web development.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klimovg" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=klimovg" />
+## Skills ⚙️
+
+### Languages ⌨️
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+### Front End 🖥️
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+
+
+
+
 
 <!--
 **KlimovG/KlimovG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +32,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
