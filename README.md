@@ -1,7 +1,7 @@
 ### Hi there 👋
-<img src="{https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={klimovg}&theme={github_dark}}" />
+<img src="{https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={klimovg}}" />
 <img src="" />
-![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={klimovg})
+![image]({https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={klimovg}})
 <!--
 **KlimovG/KlimovG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
