@@ -1,5 +1,6 @@
 ### Hi there 👋
 https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={KlimovG}&theme={github_dark}
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={KlimovG}
 <!--
 **KlimovG/KlimovG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
