@@ -1,4 +1,4 @@
-# Hi there 👋  <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> 
+# Hi there 👋  <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="100px"/> 
 ## About me 🧑‍💻
 I am Georgii Klimov(aka TraneDev) , a Full Stack Developer with a strong focus on frontend technologies, particularly Angular and RxJS. With over 4 years of experience in the tech industry, I've honed my skills in creating efficient and scalable web applications, ensuring code quality through refactoring, and collaborating with cross-functional teams. My background in both European and Russian tech environments has equipped me with a unique perspective and the ability to tackle diverse challenges in web development.
 
