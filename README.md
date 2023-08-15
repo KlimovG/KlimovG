@@ -2,6 +2,7 @@
 
 ## About me 🧑‍💻
 I am Georgii Klimov(aka TraneDev) , a Full Stack Developer with a strong focus on frontend technologies, particularly Angular and RxJS. With over 4 years of experience in the tech industry, I've honed my skills in creating efficient and scalable web applications, ensuring code quality through refactoring, and collaborating with cross-functional teams. My background in both European and Russian tech environments has equipped me with a unique perspective and the ability to tackle diverse challenges in web development.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klimov&theme=github_dark" />
 
 ## Skills ⚙️
 
